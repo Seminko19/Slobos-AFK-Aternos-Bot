@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "fight-Mru6.aternos.me:50084",
+    "port": 50084,
     "version": "",
     "try-creative": false
   },
