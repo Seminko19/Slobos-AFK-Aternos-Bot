@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fight-Mru6.aternos.me:50084",
-    "port": 50084,
-    "version": "",
+    "ip": "Minecraft-cDk2.aternos.me",
+    "port": 21406,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
